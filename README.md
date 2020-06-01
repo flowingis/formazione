@@ -16,5 +16,4 @@ Per i veterani il percorso è personalizzato e concordato sulla base dell'attual
 Nel percorso di formazione saranno proposti articoli, libri, video come materiale di studio seguiti da momenti di verifica sotto forma di conversazioni, domande, esercizi.
 
 ## [CULTURA AZIENDALE](./cultura-aziendale/)
-## [FORMAZIONE AZIENDALE](./formazione-aziendale/)
 ## [FORMAZIONE TECNICA](./formazione-tecnica/)
