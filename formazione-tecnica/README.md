@@ -13,3 +13,4 @@ Di seguito il percorso di studi per la **formazione tecnica**.
 - [Monitoring and Profiling](./monitoring-profiling.md)
 - [Polyglot Persistence](./polyglot-persistence.md)
 - [Functional Programming](./functional-programming.md)
+- [Git](./git.md)
