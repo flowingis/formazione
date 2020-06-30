@@ -9,6 +9,7 @@ Di seguito il percorso di studi per la **formazione tecnica**.
 - [HTTP](./http.md)
 - [Design Pattern](./design-pattern.md)
 - [Domain-Driven Design](./ddd.md)
+- [Software Architecture](./software-architecture.md)
 - [Asynchronous Programming](./asynchronous-programming.md)
 - [Monitoring and Profiling](./monitoring-profiling.md)
 - [Polyglot Persistence](./polyglot-persistence.md)
