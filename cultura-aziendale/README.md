@@ -13,5 +13,4 @@ Di seguito il percorso di studi per l'**allineamento culturale**. Le varie sezio
 - [Lean Startup](./lean-principles.md)
 - [Cynefin Framework](./cynefin-framework.md)
 - [Lavoro da remoto](./remote-working.md)
-- [Git](./git.md)
 - [Soft Skill](./soft-skills.md)
