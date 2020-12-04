@@ -5,6 +5,7 @@
 Di seguito il percorso di studi per la **formazione tecnica**.
 
 - [Object Oriented Programming](./oop.md)
+- [SOLID Principles](./solid-principles.md)
 - [Testing](./testing.md)
 - [HTTP](./http.md)
 - [Design Pattern](./design-pattern.md)
