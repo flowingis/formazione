@@ -1,8 +1,8 @@
 Manifesto agile
 ---------------
 
-- http://www.agilemanifesto.org/
-- http://www.agilemanifesto.org/principles.html
+- https://agilemanifesto.org/
+- https://agilemanifesto.org/principles.html
 
 #### Domande ed esercizi
  - Discussione sull'agile manifesto
