@@ -7,7 +7,11 @@ Kanban e Scrum
     - [Kanban System](http://leankit.com/learn/kanban/kanban-system/)
     - [Kanban Example](http://leankit.com/learn/kanban/kanban-board-examples-for-development-and-operations/)
     - [Kanban Agile](http://leankit.com/learn/kanban/kanban-agile/)
-- [Scrum](http://www.scrumguides.org/scrum-guide.html) the scrum guide
+    - [Kanban 101](https://www.atlassian.com/agile/kanban)
+- Scrum
+    - [The scrum guide](http://www.scrumguides.org/scrum-guide.html) 
+    - [Scrum 101](https://www.atlassian.com/agile/scrum)
+
 
 ### Domande ed esercizi
 - quali sono i principi del kanban?
@@ -26,3 +30,4 @@ Approfondimenti
 - [Kanban e Scrum](http://www.infoq.com/minibooks/kanban-scrum-minibook)
 - [Kanban essentials for IT](http://leankit.com/blog/2016/02/kanban-essentials-for-it-ops/) (video 1h 3min) leankit
 - [Real world kanban](http://leankit.com/blog/2015/11/real-world-kanban/) (video 1h 2min) leankit
+- [Agile Project Management with Kanban](https://www.youtube.com/watch?v=CD0y-aU1sXo) (video talk 1h 4min) Talks at Google tenuto da Eric Brechner (Microsoft)
