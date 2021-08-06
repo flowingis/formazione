@@ -31,4 +31,5 @@ Approfondimenti
 - [Agile Retrospective - Making Good Teams Great](https://www.amazon.it/dp/B00B03SRJW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - Idee per retrospettive (http://www.funretrospectives.com/)
 - [Effective retrospective with Rory’s Story Cubes®](https://medium.com/@dymissy/effective-retrospective-with-rorys-story-cubes-72da2d389144)
+- [Getting Value out of Agile Retrospectives: A Toolbox of Retrospective Exercises](https://www.amazon.it/Getting-Value-Agile-Retrospectives-Retrospective-ebook/dp/B00SWJO1DI)
 
