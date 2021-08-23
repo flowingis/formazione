@@ -5,6 +5,7 @@
 Di seguito il percorso di studi per l'**allineamento culturale**. Le varie sezioni andrebbero affrontate nell'ordine in cui sono presentate.
 
 - [Manifesto Agile](./agile-manifesto.md)
+- [Contratti Agili](./agile-contracts.md)
 - [Organizzazione del tempo](./time-management.md)
 - [Kanban e Scrum](./kanban-scrum.md)
 - [eXtreme Programming](./extreme-programming.md)
