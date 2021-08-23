@@ -1,6 +1,7 @@
 # Agile Contracts
-
 ---------------
+
+Per un'azienda di Servizi come Flowing è molto importante che i contratti seguano i principi di collaborazione insiti del mindset Agile. Qui di seguito trovi alcuni approfondimenti utili sul tema.
 
 Approfondimenti
 ===============
